@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "ai-chart-placeholder",
+      "description": "Placeholder for AI-generated trade comparison chart.",
+      "imageUrl": "https://picsum.photos/seed/tradechart/800/600",
+      "imageHint": "chart graph"
+    }
+  ]
+}
